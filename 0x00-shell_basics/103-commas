@@ -1,2 +1,2 @@
 #!/bin/bash#!
-Is -amp | sort -d
+Is -xamp
