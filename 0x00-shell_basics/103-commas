@@ -1,2 +1,3 @@
-#!/bin/bash#!
-Is -xamp
+#!/bin/bash
+ls -xamp
+
